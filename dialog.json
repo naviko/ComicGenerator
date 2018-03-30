@@ -1,0 +1,22 @@
+[
+  {
+    "title": [ "Scene1", "First slide", "Hello" ],
+    "actor0": [ "Hey there!", "Hello", "Hi", "How are you?", "Well hey there", "Yo!", "Hmpf", "Eert", "..." ],
+    "actor1": [ "Yo", "Hi", "Hello", "...", "Hiiii!!!!", "Well hello there" ]
+  },
+  {
+    "title": [ "What about", "Interesting" ],
+    "actor0": [ "Did you hear about the moon", "Did you see the moon??", "Yo, the MOON???!?", "So the moon?  You see it?", "LOOK AT THE MOON!!" ],
+    "actor1": [ "Hmm no moon, but did you hear about {KeyWord}?", "Who cares about the moon? What about {KeyWord}!!?", "No moon, but I heard about {KeyWord}" ]
+  },
+  {
+    "title": [ "The story", "Literally happened" ],
+    "actor0": [ "Whaaat?? What happened?", "... huh? ", "You mean to say you don't care about the moon?", "Wait what??", "Umm..?", "Yeah heard something about {KeyWord}" ],
+    "actor1": [ "Yah at {OccFrom} there was {Description}", "{Description}! At {OccFrom} at {Addr}", "Where were you at {OccFrom}?", "Where you at {OccFrom} at {Addr}?? Hmm..", "Yes at {OccFrom} someone did {Description}" ]
+  },
+  {
+    "title": [ "Moon", "All About the Moon" ],
+    "actor0": [ "Wait and you think {KeyWord} had something to do with the Moon??", "Is the Moon at fault for {KeyWord}?" ],
+    "actor1": [ "bruh", "yass", "#yass", "You did it! and the moon helped", "Yes moon was at {LunarPhase}", "There was {LunarPhase} moon out so yes" ]
+  }
+]
