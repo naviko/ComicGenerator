@@ -1,6 +1,17 @@
 # Modification to this fun comic gen #
 quick mod to explore random ideas
 
+**NOTE THAT USAGE HAS CHANGED FROM THE ORIGINAL**
+it ships with a data file and a dialog file
+
+```
+usage: ComicGenerator.exe <datafile.csv path> <dialog.json path>
+
+datafile.csv --- csv data file
+dialog.json  --- dialog for each scene. 
+```
+Results are saved in the results folder
+
 # Sassy Comic Generator #
 Really stupid little comic generator used by SassyBot of Discord and GameJolt fame.
 Meant to be used in conjunction with something else, but you can use it yourself from the command line.
