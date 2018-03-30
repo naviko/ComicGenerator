@@ -27,7 +27,7 @@ namespace ComicGenerator
         private static List<Dictionary<string, string[]>> scenes = new List<Dictionary<string, string[]>>();
         private static string dataFilePath = "";
         private static string dialogFilePath = "";
-        private static string[] dataHeaders = new string[] { };
+
         public static Random rnd = new Random();
 
         private static void print(object o)
