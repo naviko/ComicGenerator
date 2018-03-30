@@ -1,3 +1,6 @@
+# Modification to this fun comic gen #
+quick mod to explore random ideas
+
 # Sassy Comic Generator #
 Really stupid little comic generator used by SassyBot of Discord and GameJolt fame.
 Meant to be used in conjunction with something else, but you can use it yourself from the command line.
